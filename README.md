@@ -9,7 +9,14 @@ To install, download a released `craft.alfredworkflow` and double-click to open 
 Set the `spaceId` environment variable to match your Craft space. You can find this from a deeplink, when clicking on Copy Deeplink.
 
 ## Opening search results
-- `cs` -- Open Craft and search for a document by title.
+- `cs` - Open Craft and search for a document by title.
 
 ## Creating a new document
-- `cn` -- Create a new document with input as title.
+- `cn` - Create a new document with input as title.
+
+---
+
+## Changelog
+
+- 0.2 - Fix bug with specifying the spaceId variable.
+- 0.1 - Initial release.
